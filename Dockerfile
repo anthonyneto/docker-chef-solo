@@ -1,4 +1,4 @@
-FROM docker:1.12
+FROM docker:1.11
 
 RUN apk update && \
   apk add \
